@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Evaluate",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/evaluate.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Access Prototype (CLI)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/app/prototype_access.py",
+      "args": [
+        "--image",
+        "${workspaceFolder}/data/aligned/sample.jpg"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "prob_threshold": 0.55,
+  "dist_threshold": 1.0148128271102905,
+  "note": "far_q=0.99, headroom=1.05"
+}
