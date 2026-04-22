@@ -223,7 +223,7 @@ Model artefacts are stored in models/ with accompanying metadata JSON
 
 If using this repository in academic work:
 
-[Omar Jagana], "[Facial Recognition System for Access Control]," [Abertay University], [2025].
+[Omar J], "[Facial Recognition System for Access Control]," 
 
 
 or cite the core components:
@@ -235,7 +235,7 @@ Zhang et al., Joint Face Detection and Alignment via MTCNN, 2016
 9. License (MIT)
 MIT License
 
-Copyright (c) 2025 [Omar Jagana]
+Copyright (c) 2025 [OJ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
